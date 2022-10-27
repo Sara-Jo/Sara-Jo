@@ -3,9 +3,9 @@
 
 
   
-### :woman_technologist: &nbsp; I'm a Front-end developer using React and Typescript.
+### :woman_technologist: &nbsp; I'm a Front-end developer skilled in React and Typescript.
 <p>
-<a href="sarajo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
+<a href="mailto:sarajo.dev@gmail.com"><img src="https://img.shields.io/badge/sarajo.dev@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
 <a href="https://www.linkedin.com/in/sara-jo-02798512b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://cold-starburst-68e.notion.site/Sara-Jo-97b596554fb040d2a45dd4c9c6d29fcd"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion Badge"></a>
 </p>
