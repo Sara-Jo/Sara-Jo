@@ -2,7 +2,6 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarajo.dev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sara-jo-02798512b)
-[![Notion](https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=Notion&logoColor=white)](https://cold-starburst-68e.notion.site/Sara-Jo-92737ac96c8d4a4dbc10f3de4e62ce18)
 
 <br/>
 
